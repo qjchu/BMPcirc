@@ -42,7 +42,7 @@ unpack the zip file, and "perl ***.pl".
 
 #<2># Usage of pre_db.pl - prepare files that would be used in reverse complemnt mechanism or lariat mechanism prediction
 
-###Usage: perl basepair.pl [options]
+###Usage: perl pre_db.pl [options]
 
  required:
  
